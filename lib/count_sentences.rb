@@ -19,6 +19,5 @@ class String
     #count the number of elements that results from that split
      array_sentence = self.split(/[.?!]/)
      return array_sentence.count
-    
   end
 end
