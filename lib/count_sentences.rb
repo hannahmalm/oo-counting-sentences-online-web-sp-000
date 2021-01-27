@@ -15,6 +15,7 @@ class String
   end
 
   def count_sentences
-
+    #split the string on any and all periods, question marks, and exclamation marks
+    #count the number of elements that results from that split
   end
 end
